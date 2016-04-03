@@ -104,6 +104,37 @@
     height: 100px;
 }
 
+.jumbotronDown{
+	background-size: cover;
+	background-image: url(img/swamp.jpg);
+	height: 200px;
+	background-repeat: no-repeat;
+}
+
+.jumbotronDown h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+}
+
+.jumbotronDown p{
+	font-size: 20px;
+	color: #fff;
+}
+
+.jumbotronDown .container{
+	position: relative;
+	top: 50px;
+}
+
+.SignUp{
+	background-color: #43D591;
+	padding: 25px 25px;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+}
+
 .footer p{
 	font-size: 10px;
 	color: #fff;
