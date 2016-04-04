@@ -94,7 +94,10 @@
     text-align: center;
     width: 50%;
     margin: 0 auto;	
-    width: 200px;
+}
+
+.MeetTeam .icon img{
+	width: 200px;
     height: 200px;
 }
 
