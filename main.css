@@ -12,7 +12,7 @@
 
 .jumbotron {
 	background-size: cover;
-	background-image: url(img/swamp.jpg);
+	background-image: url(img/apartment2.jpg);
 	height: 500px;
 	background-repeat: no-repeat;
 }
@@ -68,7 +68,7 @@
 
 .MeetTeam{
 	background-color: #43D591;
-	border-bottom: 15px solid #dbdbdb;
+	border-bottom: 5px solid #dbdbdb;
 	padding-bottom: 15px;
 }
 
@@ -82,9 +82,6 @@
 	font-size: 15px;
 	margin-bottom: 13px;
 }
-.MeetTeam{
-	background-color: #43D591;
-}
 
 .MeetTeam h3{
 	font-family: 'Shift', sans-serif;
@@ -94,14 +91,15 @@
 
 .MeetTeam .icon{
 	vertical-align: top;
-    text-align: right;
+    text-align: center;
     width: 50%;
-    margin: 0 auto;
+    margin: 0 auto;	
+    width: 200px;
+    height: 200px;
 }
 
-.MeetTeam .icon img{
-	width: 100px;
-    height: 100px;
+.MeetTeam .row{
+	display: inline;
 }
 
 .jumbotronDown{
@@ -124,6 +122,30 @@
 }
 
 .jumbotronDown .container{
+	position: relative;
+	top: 50px;
+}
+
+.jumbotronCon{
+	background-size: cover;
+	background-image: url(img/swamp.jpg);
+	height: 400px;
+	background-repeat: no-repeat;
+}
+
+.jumbotronCon h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+}
+
+.jumbotronCon p{
+	font-size: 20px;
+	color: #fff;
+}
+
+.jumbotronCon .container{
 	position: relative;
 	top: 50px;
 }
@@ -164,6 +186,5 @@
 	font-size: 10px;
 	color: #fff;
 	background-color: #88A9E5;
-	padding: 14px 10px;
+	padding: 14px 40px;
 }
-
