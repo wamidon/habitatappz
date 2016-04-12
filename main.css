@@ -12,7 +12,7 @@
 
 .jumbotron {
 	background-size: cover;
-	background-image: url(img/apartment2.jpg);
+	background-image: url(img/apartment3.jpg);
 	height: 500px;
 	background-repeat: no-repeat;
 }
@@ -30,7 +30,7 @@
 }
 
 .jumbotron a{
-	background-color: #43D591;
+	background-color: #4EC857;
 	color: #FFFFFF;
 	padding: 10px 10px;
 }
@@ -41,7 +41,7 @@
 }
 
 .learn-more{
-	background-color: #43D591;
+	background-color: #4EC857;
 }
 
 .learn-more a{
@@ -67,7 +67,7 @@
 }
 
 .MeetTeam{
-	background-color: #43D591;
+	background-color: #4EC857;
 	border-bottom: 5px solid #dbdbdb;
 	padding-bottom: 15px;
 }
@@ -150,7 +150,7 @@
 }
 
 .Share{
-	background-color: #43D591;
+	background-color: #4EC857;
 	padding: 25px 25px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
@@ -168,7 +168,7 @@
 }
 
 .SignUp{
-	background-color: #43D591;
+	background-color: #4EC857;
 	padding: 25px 25px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
