@@ -1,15 +1,23 @@
 .nav a{
 	color: #5a5a5a;
-	font-size: 11px;
+	font-size: 14px;
 	font-weight: bold;
 	padding: 14px 10px;
 	text-transform: uppercase;
+}
+
+.nav img{
+	width: 20px;
+	height: 20px;
 }
 
 .nav li{
 	display: inline;
 }
 
+.nav{
+	padding-bottom: 3px;
+}
 .jumbotron {
 	background-size: cover;
 	background-image: url(img/apartment3.jpg);
