@@ -24,6 +24,7 @@
 .nav{
 	padding-bottom: 3px;
 }
+
 .jumbotron {
 	background-size: cover;
 	background-image: url(img/apartment3.jpg);
@@ -80,6 +81,36 @@
     height: 100px;
 }
 
+.jumbotronAb {
+	background-size: cover;
+	background-image: url(img/livingroom2.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+}
+
+.jumbotronAb h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+.jumbotronAb p{
+	font-size: 20px;
+	color: #fff;
+}
+
+.jumbotronAb a{
+	background-color: #4EC857;
+	color: #FFFFFF;
+	padding: 10px 10px;
+}
+
+.jumbotronAb .container{
+	position: relative;
+	top: 100px;
+}
+
 .MeetTeam{
 	background-color: #4EC857;
 	border-bottom: 5px solid #dbdbdb;
@@ -113,6 +144,36 @@
 .MeetTeam .icon img{
 	width: 200px;
     height: 200px;
+}
+
+.jumbotronHW {
+	background-size: cover;
+	background-image: url(img/bedroom.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+}
+
+.jumbotronHW h1{
+	color: #fff;
+	font-size: 48px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+.jumbotronHW p{
+	font-size: 20px;
+	color: #fff;
+}
+
+.jumbotronHW a{
+	background-color: #4EC857;
+	color: #FFFFFF;
+	padding: 10px 10px;
+}
+
+.jumbotronHW .container{
+	position: relative;
+	top: 100px;
 }
 
 .jumbotronDown{
