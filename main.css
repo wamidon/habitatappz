@@ -83,7 +83,7 @@
 
 .jumbotronAb {
 	background-size: cover;
-	background-image: url(img/livingroom2.jpg);
+	background-image: url(img/livingroom2d.jpg);
 	height: 500px;
 	background-repeat: no-repeat;
 }
@@ -179,7 +179,7 @@
 .jumbotronDown{
 	background-size: cover;
 	background-image: url(img/swamp.jpg);
-	height: 200px;
+	height: 500px;
 	background-repeat: no-repeat;
 }
 
