@@ -1,7 +1,13 @@
+@font-face {
+	font-family: navFont;
+	src: url(img/MoonBold.otf);
+}
+
 .nav a{
 	color: #5a5a5a;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: bold;
+	font-family: navFont;
 	padding: 14px 10px;
 	text-transform: uppercase;
 }
