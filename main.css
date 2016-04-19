@@ -46,7 +46,8 @@
 }
 
 .jumbotron a{
-	background-color: #4EC857;
+	background-color: #2ecc71;
+	font-family: 'Raleway', sans-serif;
 	color: #FFFFFF;
 	padding: 10px 10px;
 }
@@ -57,7 +58,7 @@
 }
 
 .learn-more{
-	background-color: #4EC857;
+	background-color: #2ecc71;
 }
 
 .learn-more a{
@@ -103,9 +104,11 @@
 }
 
 .jumbotronAb a{
-	background-color: #4EC857;
+	background-color: #2ecc71;
+	font-family: 'Raleway', sans-serif;
 	color: #FFFFFF;
 	padding: 10px 10px;
+
 }
 
 .jumbotronAb .container{
@@ -114,7 +117,7 @@
 }
 
 .MeetTeam{
-	background-color: #4EC857;
+	background-color: #2ecc71;
 	border-bottom: 5px solid #dbdbdb;
 	padding-bottom: 15px;
 }
@@ -169,7 +172,8 @@
 }
 
 .jumbotronHW a{
-	background-color: #4EC857;
+	background-color: #2ecc71;
+	font-family: 'Raleway', sans-serif;
 	color: #FFFFFF;
 	padding: 10px 10px;
 }
@@ -230,7 +234,7 @@
 }
 
 .Share{
-	background-color: #4EC857;
+	background-color: #2ecc71;
 	padding: 25px 25px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
@@ -248,7 +252,7 @@
 }
 
 .SignUp{
-	background-color: #4EC857;
+	background-color: #2ecc71;
 	padding: 25px 25px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
